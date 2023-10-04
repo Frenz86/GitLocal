@@ -13,7 +13,7 @@ git status
 git commit -m "add new files to repos"
 ```
 ```bash
-git remote add origin https://github.com/Frenz86/bau.git
+git remote add origin https://github.com/Frenz86/.........git
 ```
 ```bash
 git push -u origin main
